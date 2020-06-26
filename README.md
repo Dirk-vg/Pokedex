@@ -1,4 +1,4 @@
-"# Pokedex" 
+![Alt](https://www.rsvn.it/wp-content/uploads/2019/12/pikachu-logo-png-3.png "Title")
 
 ## Key Concepts:
 
