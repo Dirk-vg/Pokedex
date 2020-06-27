@@ -10,4 +10,4 @@
 
 Poke API [link](https://pokeapi.co/ "Title").
 
-Live version [link]([link](https://pokeapi.co/ "Title").
+Live version [link](https://pokeapi.co/ "Title").
