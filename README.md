@@ -10,4 +10,4 @@
 
 Poke API [link](https://pokeapi.co/ "Title").
 
-Live version [link](https://pokeapi.co/ "Title").
+Live version [link](https://dirk-vg.github.io/Pokedex/ "Title").
